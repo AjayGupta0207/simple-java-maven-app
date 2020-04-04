@@ -2,6 +2,3 @@ Test
 
 
 test1
-
-Modified by another user
-
